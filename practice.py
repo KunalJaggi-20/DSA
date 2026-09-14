@@ -1,10 +1,9 @@
-arr = [0,1,0,3,12]
+no = int(input("Enter no of elements : "))
 
-left = 0 
+arr = [0]
 
-for right in range(len(arr)):
-    if arr[right] != 0:
-        arr[right], arr[left] = arr[left], arr[right]
-        left = left + 1
+for i in range(no):
+    element = int(input("Enter number: "))
+    arr.append(element)
 
 print(arr)
