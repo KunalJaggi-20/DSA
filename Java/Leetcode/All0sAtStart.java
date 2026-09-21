@@ -1,3 +1,12 @@
+/*
+    
+    Problem: Move all 0's to the beginning of an array
+ 
+    -> Move all 0's to the beginning of an array 
+    -> Two pointer approach
+
+*/
+
 package Leetcode;
 
 public class All0sAtStart 
