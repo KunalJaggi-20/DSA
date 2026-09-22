@@ -2,10 +2,10 @@
  *   Majority Element
  *   Sorting Algorithm → O(nlogn) 
  * 
- * 1. Sort the array
- * 2. Iterate through the array and count the frequency of each element
- * 3. If the frequency is greater than n/2, return that element as the
- * 4. If no element is found with count greater than n/2, return -
+ *  1. Sort the array
+ *  2. Iterate through the array and count the frequency of each element
+ *  3. If the frequency is greater than n/2, return that element as the
+ *  4. If no element is found with count greater than n/2, return -
  * 
  * 
  *  Less Time Complexity → O(n)
