@@ -8,7 +8,7 @@
  *  4. If no element is found with count greater than n/2, return -
  * 
  * 
- *  Less Time Complexity → O(n)
+ *  Less Time Complexity → O(nlog n)
  */
 package Leetcode;
 
