@@ -1,8 +1,10 @@
 package Leetcode;
 
-public class MergeSortedArray {
+public class MergeSortedArray 
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
 
         int A[] = {1, 2, 3, 0, 0, 0};
         int B[] = {2, 5, 6};
