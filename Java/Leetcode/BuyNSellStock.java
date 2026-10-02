@@ -14,10 +14,10 @@ public class BuyNSellStock
             {
                 MP = Math.max(MP, prices[i] - BestBuy);
             }
-            
+
             BestBuy = Math.min(BestBuy, prices[i]);
         }
-        
+
         System.out.println(MP);
     }
 }
